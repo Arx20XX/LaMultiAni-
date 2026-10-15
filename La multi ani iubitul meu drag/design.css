@@ -1,0 +1,32 @@
+body{
+    background-color: magenta;
+    
+}
+
+H1{
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+
+script{
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+
+H2{
+    color: white;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+img{
+    width: 500px;
+    border-radius: 25px;
+}
